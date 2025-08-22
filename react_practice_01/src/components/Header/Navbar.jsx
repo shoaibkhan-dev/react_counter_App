@@ -9,6 +9,7 @@ function Navbar(){
             <li onClick={() => setCurrentPage("about")}>About</li>
             <li onClick={() => setCurrentPage("contact")}>Contact</li>
             <li onClick={() => setCurrentPage("services")}>Services</li>
+            <li onClick={() => setCurrentPage("Email")}>Email</li>
           </ul>
           </nav>
           </header>
