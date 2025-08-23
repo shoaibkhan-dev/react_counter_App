@@ -3,6 +3,7 @@ function Navbar(){
     return (
         <header className="header-container">
           <div>Logo</div>
+          <h1>Navbar</h1>
           <nav>
           <ul className="header-nav">
             <li onClick={() => setCurrentPage("home")}>Home</li>
