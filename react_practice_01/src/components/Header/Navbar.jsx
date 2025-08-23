@@ -4,6 +4,7 @@ function Navbar(){
         <header className="header-container">
           <div>Logo</div>
           <h1>Navbar</h1>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, commodi.</p>
           <nav>
           <ul className="header-nav">
             <li onClick={() => setCurrentPage("home")}>Home</li>
